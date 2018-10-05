@@ -1,0 +1,4 @@
+{
+    "connectionString": "mongodb://localhost/newt",
+    "secret": "test@123"
+}
